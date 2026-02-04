@@ -1,15 +1,5 @@
 # 🎮 Epic Games Free Notifier | Epic 喜加一通知机器人
 
-[![Epic Free Game Notifier](https://github.com/wwxseo/epic-/actions/workflows/main.yml/badge.svg)](https://github.com/wwxseo/epic-/actions/workflows/main.yml)
-![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-
-[中文说明](#-中文说明) | [English Instructions](#-english-instructions)
-
----
-
-# 🇨🇳 中文说明
-
 这是一个基于 GitHub Actions 的全自动化脚本，**每天自动检测** Epic Games Store 的免费游戏，并通过 Telegram Bot 发送精美的图文通知。
 
 **你不需要服务器，不需要懂代码，只要拥有一个 GitHub 账号，就能免费部署属于你自己的通知机器人！**
